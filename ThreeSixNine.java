@@ -1,4 +1,4 @@
-public class threesixnine{
+public class ThreeSixNine{
     public static void main(String[] args){
       for(int i = 1; i < 100; i++){
         int e1 = i/10; //십의자리 수
